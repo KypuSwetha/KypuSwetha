@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kypu Swetha</h1>
 <h3 align="center">Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kypuswetha&label=Profile%20views&color=0e75b6&style=flat" alt="kypuswetha" /> </p>
@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning **Platform Development**
 
 - 📫 How to reach me **kypuswetha@gmail.com**
+
+- 📄 Know about my experiences [C:\Users\MY_PC\Downloads](C:\Users\MY_PC\Downloads)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
